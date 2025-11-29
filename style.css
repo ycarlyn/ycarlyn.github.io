@@ -58,7 +58,7 @@ body {
 
 /* Photo styling */
 .profile-photo {
-  width: 800px;
+  width: 400px;
   height: auto;
   object-fit: cover;
 }
